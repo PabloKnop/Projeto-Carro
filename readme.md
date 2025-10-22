@@ -24,4 +24,8 @@ quero demonstrar os detalhes os carros que eu mais gosto
 ## github
 
 - Inspiração: https://github.com/PabloKnop/bikcraft
-- Esse projeto:
+- Esse projeto: https://github.com/PabloKnop/Projeto-Carro
+
+## Dúvidas
+
+- Primeira:
