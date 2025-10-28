@@ -1,0 +1,41 @@
+.header-bg{
+    background-color: var(--c12);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.header-menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.header-menu a{
+    color: var(--c0);
+    position: relative;
+    display: inline-block;
+}
+
+.header-menu a::after{
+    content: "";
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: green;
+    transition: 0.3s;
+    position: absolute;
+}
+
+.header-menu a:hover::after{
+    width: 100%;
+}
+
+.logo{
+    display: inline-block;
+    min-width: 125px;
+}

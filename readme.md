@@ -29,3 +29,5 @@ quero demonstrar os detalhes os carros que eu mais gosto
 ## Dúvidas
 
 - Primeira:
+
+Minha fonte nao foi reconhecida usando o link fornecido pelo google fontes linkado diretamento no css.tipografia

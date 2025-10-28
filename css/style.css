@@ -1,0 +1,10 @@
+/* CSS GLOBAL */
+@import url(./css_global/global.css);
+
+/* CSS HEADER */
+@import url(./header/header.css);
+
+/* CSS UTILIDADES */
+@import url(./utilidades/cores.css);
+@import url(./utilidades/tipografia.css);
+@import url(./utilidades/componentes.css);
