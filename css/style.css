@@ -8,3 +8,7 @@
 @import url(./utilidades/cores.css);
 @import url(./utilidades/tipografia.css);
 @import url(./utilidades/componentes.css);
+
+/* CSS MAIN */
+
+@import url(./main/main.css);

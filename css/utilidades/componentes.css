@@ -24,3 +24,19 @@
   box-sizing: border-box;
   position: relative;
 }
+
+.botao{
+  padding: 15px 25px;
+  background-image: linear-gradient(
+    to bottom, #475B8B, #213461
+  );
+  display: inline-block;
+  text-transform: uppercase;
+  color: var(--c1);
+  border-radius: 5px;
+  font: 600 1.125rem / 1.35 "Poppins", sans-serif;;
+}
+
+.botao:hover{
+  background-image: linear-gradient(to bottom, hsl(221, 71%, 12%));
+}
