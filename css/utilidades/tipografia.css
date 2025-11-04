@@ -54,7 +54,7 @@
  font-family: "Condiment";
  font-size: 2rem;
  background: -webkit-linear-gradient(left, #000000 0%, #000000 100%);
- background: linear-gradient(to right, #f3f1f1 25%, #a294ee 75%);
+ background: linear-gradient(to right, #ededed 25%, #4e6fb1 75%);
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
 }
