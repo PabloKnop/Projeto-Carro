@@ -1,0 +1,26 @@
+.carros {
+    background-color: greenyellow;
+}
+
+.carros ul {
+    display: flex;
+    max-width: 1400px;
+    overflow-x: auto;
+}
+
+.carros a {
+    display: block;
+    width: 400px;
+    height: 400px;
+}
+
+
+.carros ul li{
+    padding: 0px 20px 0px 20px;
+}
+
+.carros ul li a img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
