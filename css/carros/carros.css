@@ -1,26 +1,66 @@
 .carros {
-    background-color: greenyellow;
+   
+}
+
+.carros h2{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.carros a{
+    display: block;
 }
 
 .carros ul {
     display: flex;
+    padding-inline-start: 0px;
+    gap: 40px;
+    padding: 0px 20px 20px 20px;
     max-width: 1400px;
+    margin: 0 auto;
     overflow-x: auto;
 }
 
-.carros a {
-    display: block;
-    width: 400px;
-    height: 400px;
+.carros ul li {
+   min-width: 280px;
 }
 
 
-.carros ul li{
-    padding: 0px 20px 0px 20px;
+.carros img{
+    margin-bottom: 16px;
 }
 
-.carros ul li a img {
-    object-fit: cover;
-    width: 100%;
-    height: auto;
+.carros h3{
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
 }
+
+.carros h3::before{
+    content:'';
+    width: 12px;
+    height: 8px;
+    background-color: var(--p4);
+    transition: 0.3s;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.carros a:hover h3::before{
+    width: 24px;
+    height: 8px;
+  }  
+
+  .carros p{
+    margin-left: 20px;
+  }  
+
+
+  @media (max-width: 800px){
+
+    .carros ul {
+    gap: 20px;
+    }
+
+
+  }
