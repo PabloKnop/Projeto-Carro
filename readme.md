@@ -26,6 +26,7 @@ quero demonstrar os detalhes os carros que eu mais gosto
 - Inspiração: https://github.com/PabloKnop/bikcraft
 - Esse projeto: https://github.com/PabloKnop/Projeto-Carro
 - Pexels: https://www.pexels.com/pt-br/@willian-cittadin-2152695735/gallery/
+- icons: https://www.flaticon.com/br/buscar?word=carros&weight=bold&type=uicon
 
 ## Dúvidas
 

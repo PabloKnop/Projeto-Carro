@@ -40,3 +40,10 @@
     display: inline-block;
     min-width: 125px;
 }
+
+
+@media (max-width: 500px){
+    .header{
+        justify-content: center;
+    }
+}
