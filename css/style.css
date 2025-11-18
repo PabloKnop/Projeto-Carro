@@ -15,5 +15,8 @@
 /* CSS CARROS */
 @import url(./carros/carros.css);
 
-/* CSS CARROS */
+/* CSS TECNOLOGIA */
 @import url(./tecnologia/tecnologia.css);
+
+/* CSS PARCEIROS*/
+@import url(./parceiros/parceiros.css);
